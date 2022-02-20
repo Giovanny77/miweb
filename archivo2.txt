@@ -1,3 +1,0 @@
-hola nuevamente desde vs code con git, ejempo 2
-modificado
-tercera modificacion
